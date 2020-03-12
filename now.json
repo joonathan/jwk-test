@@ -1,0 +1,5 @@
+{
+  "builds": [
+    { "src": "*.json", "use": "@now/static" },
+  ]
+}
